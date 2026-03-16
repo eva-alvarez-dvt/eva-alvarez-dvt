@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey there, I'm Eva! 👋
 
-<!--
-**eva-alvarez-dvt/eva-alvarez-dvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+23-yo AI Engineer @ Devoteam ☁️🤖
 
-Here are some ideas to get you started:
+I don't just prompt; I build. I’m passionate about turning complex cloud architectures into smart, scalable AI solutions. Currently obsessed with making LLMs faster, cheaper, and more reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Working on: Enterprise-grade RAG systems and Gemini orchestration.
+
+⚡ Superpower: Turning "messy" data into production-ready insights.
+
+🧠 Philosophy: Efficiency > Hype. (Yes, Gemini Flash is my best friend).
+
+🌱 Learning: Advanced Vertex AI and why my code worked on the first try (it's suspicious).
+
+Let’s build the future of AI, one commit at a time.
